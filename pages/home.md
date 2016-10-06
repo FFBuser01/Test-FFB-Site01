@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 hero-image: /assets/img/feature-background.jpg
-hero-text: 'Welcome to the Website of the Federal Financing Bank '
+hero-text: 'Welcome to the Federal Financing Bank '
 hero-button-text: Test
 hero-button-link: /about/
 banner-heading: 'The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.'
