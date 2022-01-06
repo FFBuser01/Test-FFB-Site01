@@ -56,22 +56,6 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 | [November]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2019_November.pdf)   |
 | [December]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2019_December.pdf)   |
 
-| 2018      |
-|-----------|
-| [January]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_January.pdf)   |
-| [February]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_February.pdf)   |
-| [March]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_March.pdf)   |
-| [April]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_April.pdf)   |
-| [May]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_May.pdf)   |
-| [June]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_June.pdf)   |
-| [July]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_July.pdf)   |
-| [August]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_August.pdf)   |
-| [September]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_September.pdf)   |
-| [October]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_October.pdf)   |
-| [November]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_November.pdf)   |
-| [December]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_December.pdf)   |
-
-
 | Previous Years (Zip Files)     |
 |-----------|
 | [2018]({{site.baseurl}}/assets/files/2018_Monthly_Activity_Reports.zip)   |
