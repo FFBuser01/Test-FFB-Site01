@@ -74,6 +74,7 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 
 | Previous Years (Zip Files)     |
 |-----------|
+| [2018]({{site.baseurl}}/assets/files/2018_Monthly_Activity_Reports.zip)   |
 | [2017]({{site.baseurl}}/assets/files/2017_Monthly_Activity_Reports.zip)   |
 | [2016]({{site.baseurl}}/assets/files/2016_Monthly_Activity_Reports.zip)   |
 | [2015]({{site.baseurl}}/assets/files/2015_Monthly_Activity_Reports.zip)   |
