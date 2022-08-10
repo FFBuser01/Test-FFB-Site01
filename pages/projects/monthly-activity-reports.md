@@ -14,6 +14,7 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 | [May]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2022_May.pdf)
 | [June]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2022_June.pdf)
 | [July]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2022_July.pdf)
+| [August]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2022_August.pdf)
 
 
 | 2021      |
