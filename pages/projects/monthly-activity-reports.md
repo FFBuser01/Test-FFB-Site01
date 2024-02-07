@@ -8,6 +8,7 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 | 2024      |
 |-----------|
 | [January]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2024_January.pdf)
+| [February]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2024_February.pdf)
 
 | 2023      |
 |-----------|
